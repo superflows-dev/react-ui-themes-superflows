@@ -10,16 +10,19 @@ function getTheme(name) {
   switch(name) {
     case Constants.DEFAULT:
     theme = {
-      dangerDarkColor: '#CC3300',
-      dangerLightColor: '#FFD9CC',
-      successDarkColor: '#009900',
-      successLightColor: '#E6FFE6',
-      infoDarkColor: '#4D4D4D',
-      infoLightColor: '#D9D9D9',
-      primaryButtonDarkColor: '#7300E6',
-      primaryButtonLightColor: '#FFFFFF',
-      linkButtonDarkColor: '#000000',
-      linkButtonLightColor: 'transparent'
+      dangerBackgroundColor: '#CC3300',
+      dangerColor: '#FFD9CC',
+      dangerBorderColor: '#CFA98C',
+      successBackgroubndColor: '#009900',
+      successColor: '#E6FFE6',
+      successBorderColor: '#A6AFA6',
+      infoBackgroundColor: '#4D4D4D',
+      infoColor: '#D9D9D9',
+      infoBorderColor: '#999999',
+      primaryButtonBackgroundColor: '#7300E6',
+      primaryButtonColor: '#FFFFFF',
+      linkButtonBackgroundColor: '#000000',
+      linkButtonColor: 'transparent'
     }
     break;
   }

@@ -22,7 +22,10 @@ function getTheme(name) {
       primaryButtonBackgroundColor: '#000000',
       primaryButtonColor: '#FFFFFF',
       linkButtonColor: '#000000',
-      linkButtonBackgroundColor: 'transparent'
+      linkButtonBackgroundColor: 'transparent',
+      tabTextColor: '#000000',
+      tabBackgroundColor: '#ffffff',
+      tabUnselectedTextColor: '#999999'
     }
     break;
   }

@@ -23,9 +23,9 @@ function getTheme(name) {
       primaryButtonColor: '#FFFFFF',
       linkButtonColor: '#000000',
       linkButtonBackgroundColor: 'transparent',
-      tabTextColor: '#000000',
+      tabColor: '#000000',
       tabBackgroundColor: '#ffffff',
-      tabUnselectedTextColor: '#999999'
+      tabUnselectedColor: '#999999'
     }
     break;
   }

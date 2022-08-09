@@ -25,7 +25,17 @@ function getTheme(name) {
       linkButtonBackgroundColor: 'transparent',
       tabColor: '#000000',
       tabBackgroundColor: '#ffffff',
-      tabUnselectedColor: '#999999'
+      tabUnselectedColor: '#999999',
+      uploadToS3BorderColor: 'transparent',
+      uploadToS3BackgroundColor: 'transparent',
+      uploadToS3TitleColor: 'transparent',
+      uploadToS3SubtitleColor: 'transparent',
+      uploadToS3ChooseColor: 'white',
+      uploadToS3ChooseBackgroundColor: 'black',
+      uploadToS3CancelColor: 'black',
+      uploadToS3CancelBackgroundColor: '#efefef',
+      uploadToS3UploadColor: 'white',
+      uploadToS3UploadBackgroundColor: 'black',
     }
     break;
   }

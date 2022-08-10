@@ -36,6 +36,10 @@ function getTheme(name) {
       uploadToS3CancelBackgroundColor: '#efefef',
       uploadToS3UploadColor: 'white',
       uploadToS3UploadBackgroundColor: 'black',
+      commentViewBorderColor: '#cccccc',
+      commentViewBackgroundColor: '#efefef',
+      commentViewTextAreaBackgroundColor: '#ffffff',
+      commentViewColor: '#000000',
     }
     break;
   }

@@ -40,6 +40,8 @@ function getTheme(name) {
       commentViewBackgroundColor: '#efefef',
       commentViewTextAreaBackgroundColor: '#ffffff',
       commentViewColor: '#000000',
+      commentViewSubmitButtonBackgroundColor: '#000000',
+      commentViewSubmitButtonColor: '#fff',
     }
     break;
   }

@@ -38,6 +38,7 @@ function getTheme(name) {
       uploadToS3UploadBackgroundColor: 'black',
       commentViewBorderColor: '#cccccc',
       commentViewBackgroundColor: '#efefef',
+      commentViewReplyBackgroundColor: '#cccccc',
       commentViewTextAreaBackgroundColor: '#ffffff',
       commentViewColor: '#000000',
       commentViewSubmitButtonBackgroundColor: '#000000',
